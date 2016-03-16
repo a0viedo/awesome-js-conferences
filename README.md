@@ -57,6 +57,7 @@ _This is a subset of [RichardLitt](https://github.com/RichardLitt)'s [`awesome-c
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
 * [dotJS](http://www.dotjs.io/) // [@dotJS](https://twitter.com/dotJS)
 * [Ember Fest](https://emberfest.eu/) // [@EmberFest](https://twitter.com/EmberFest)
+* [Front Trends](https://front-trends.com) // [@fronttrends](https://twitter.com/fronttrends)
 * [JS Italian Conf](http://2014.jsday.it/) // [@jsconfit](https://twitter.com/jsconfit)
 * [JSConf BP](http://jsconfbp.com/) [@jsconfbp](https://twitter.com/jsconfbp)
 * [JSConf EU](http://2015.jsconf.eu/) [@jsconfeu](https://twitter.com/jsconfeu)
